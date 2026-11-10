@@ -1,0 +1,26 @@
+{
+  "grupo": "G05",
+  "operacion": "Wayra Copper",
+  "zip_fuente": "GEM_S04_6_Visualizadores_Alternativas_v0.4.1_DOCENTE.zip",
+  "zip_sha256": "8d7cd6e629d8b01c233a7b3fe040cac02a0f4822c9f1a40e0064653f6052298b",
+  "html_fuente": "GEM_S04_G05_Wayra_Copper_Alternativas_v0.4.1.html",
+  "html_s04_sha256": "76b1bbe1e9ee6bc2b6ce9a67ea5ba49b1ba3b42d5079bd296963facb65d5a89f",
+  "html_s11_original_sha256": "34535d49f4e5a6fb371d2125df0e212f44cfcc03746ba756a642bc941da261ca",
+  "base_del_motor_s04": {
+    "group": "G05",
+    "days": 30,
+    "processed_t_month": 907613,
+    "processed_tpd": 30253.766666666666,
+    "crushed_t_month": 1032954,
+    "head_grade_fraction": 0.007576680228305733,
+    "recovery_fraction": 0.8995916023908004,
+    "recovery_target_fraction": 0.9,
+    "plant_target_tpd": 30500,
+    "min_design_tpd": 31500.0,
+    "opex_kusd_month": 26077.0646921,
+    "processing_variable_kusd_month": 9569.5991881,
+    "crushed_buffer_start_t": 50000.0,
+    "crushed_buffer_capacity_t": 220000.0,
+    "source": "D01–D03 oficiales, S04; escenarios A/B/C hipotéticos y editables"
+  }
+}
